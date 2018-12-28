@@ -31,7 +31,7 @@ public class FragmentLayoutLeft extends Fragment {
 
         lvFragmentLayoutLeft = (ListView) view.findViewById(R.id.idlvFragmentLayoutLeft);
 
-        String[] items = new String[] {"Item 1", "Item 2", "Item 3", "Item 4"};
+        String[] items = new String[] {"Fragment 1", "Fragment 2"};
 
         ArrayAdapter<String> adapter = new ArrayAdapter<>(parent.getContext(), android.R.layout.simple_list_item_1, items);
 
