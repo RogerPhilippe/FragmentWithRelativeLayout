@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentWithRelativeLayout</string>
+    <string name="label_fragment_layout_right_main">Fragment Layout Right Main</string>
+    <string name="label_fragment_layout_right_secondary">Fragment Layout Right Secondary</string>
+</resources>
